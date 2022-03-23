@@ -5971,6 +5971,14 @@ graceful-fs@~2.0.0:
     component-event "^0.1.4"
     ianstormtaylor-css "^0.3.1"
 
+"grow-textarea@https://github.com/jywarren/grow.git#d54141c9456343f14cc6c935faa0915af09eb669":
+  version "1.0.1"
+  uid d54141c9456343f14cc6c935faa0915af09eb669
+  resolved "https://github.com/jywarren/grow.git#d54141c9456343f14cc6c935faa0915af09eb669"
+  dependencies:
+    component-event "^0.1.4"
+    ianstormtaylor-css "^0.3.1"
+
 growl@1.10.5:
   version "1.10.5"
   resolved "https://registry.yarnpkg.com/growl/-/growl-1.10.5.tgz#f2735dc2283674fa67478b10181059355c369e5e"
@@ -13490,6 +13498,19 @@ window-size@0.1.0:
     bullseye "1.4.6"
     bureaucracy "1.0.7"
     crossvent "1.5.0"
+    kanye "3.0.2"
+    local-storage "1.4.2"
+    seleccion "2.0.0"
+
+"woofmark@https://github.com/jywarren/woofmark.git#plots2":
+  version "4.0.3"
+  uid "78821fad8687757a4201fbef3be4b85418e785ef"
+  resolved "https://github.com/jywarren/woofmark.git#78821fad8687757a4201fbef3be4b85418e785ef"
+  dependencies:
+    bullseye "1.4.6"
+    bureaucracy "1.0.7"
+    crossvent "1.5.0"
+    http-server "^0.12.3"
     kanye "3.0.2"
     local-storage "1.4.2"
     seleccion "2.0.0"
